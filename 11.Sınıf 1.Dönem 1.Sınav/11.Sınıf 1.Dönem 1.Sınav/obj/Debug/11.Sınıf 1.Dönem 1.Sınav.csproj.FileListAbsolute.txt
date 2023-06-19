@@ -1,0 +1,45 @@
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe.config
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csprojResolveAssemblyReference.cache
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.g.cs
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\App.g.cs
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.cache
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.lref
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.baml
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.g.resources
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\_11.Sınıf_1.Dönem_1.Sınav.Properties.Resources.resources
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csproj.GenerateResource.Cache
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csproj.CoreCompileInputs.cache
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+E:\dersler\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe.config
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csprojResolveAssemblyReference.cache
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.g.cs
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\App.g.cs
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.cache
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.lref
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.baml
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.g.resources
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\_11.Sınıf_1.Dönem_1.Sınav.Properties.Resources.resources
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csproj.GenerateResource.Cache
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+D:\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe.config
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csproj.AssemblyReference.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.g.cs
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\App.g.cs
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.lref
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.baml
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.g.resources
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\_11.Sınıf_1.Dönem_1.Sınav.Properties.Resources.resources
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csproj.GenerateResource.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.csproj.CoreCompileInputs.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb

@@ -1,0 +1,48 @@
+﻿<Window x:Class="_11.Sınıf_1.Dönem_1.Sınav.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_11.Sınıf_1.Dönem_1.Sınav"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="372" Width="753">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  >
+            <StackPanel Height="200" Width="100" Margin="10">
+                <TextBlock Text="Ad:" Margin="5"/>
+                <TextBox x:Name="tbadekle" Margin="5"/>
+                <ListBox x:Name="lbadlar" Height="150" SelectionChanged="Listbox_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Height="200" Width="100" Margin="10">
+                <TextBlock Text="Soyad:" Margin="5"/>
+                <TextBox x:Name="tbsoyadekle" Margin="5"/>
+                <ListBox x:Name="lbsoyadlar" Height="150" SelectionChanged="Listbox_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Height="200" Width="100" Margin="10">
+                <TextBlock Text="Sınıf:" Margin="5"/>
+                <ComboBox x:Name="cbsınıflar" Margin="5"/>
+                <ListBox x:Name="lbsınıflar" Height="150" SelectionChanged="Listbox_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Height="200" Width="100" Margin="10">
+                <TextBlock Text="Ders:" Margin="5"/>
+                <ComboBox x:Name="cbdersler" Margin="5"/>
+                <ListBox x:Name="lbdersler" Height="150" SelectionChanged="Listbox_SelectionChanged" />
+            </StackPanel>
+            <StackPanel Height="200" Width="100" Margin="10">
+                <TextBlock Text="Not:" Margin="5"/>
+                <TextBox x:Name="tbnotekle" Margin="5"/>
+                <ListBox x:Name="lbnotlar" Height="150" SelectionChanged="Listbox_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Width="100" Margin="10" Height="200">
+                <Button x:Name="btnekle" Content="Ekle" Margin="5" Click="btnekle_Click"/>
+                <Button x:Name="btnsil" Content="Sil" Margin="5" Click="btnsil_Click"/>
+                <Button x:Name="btndeğiştir" Content="Değiştir" Margin="5" Click="btndeğiştir_Click"/>
+                <Button x:Name="btnara" Content="Ara" Margin="5" Click="btnara_Click"/>
+                <Button x:Name="btnrasgeleseç" Content="rasgele seç" Margin="5" Click="btnrasgeleseç_Click"/>
+            </StackPanel>
+
+
+
+        </StackPanel>
+    </Grid>
+</Window>

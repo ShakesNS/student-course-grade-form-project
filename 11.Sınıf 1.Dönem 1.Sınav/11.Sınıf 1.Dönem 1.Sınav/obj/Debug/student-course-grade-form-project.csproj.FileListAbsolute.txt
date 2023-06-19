@@ -1,0 +1,16 @@
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe.config
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\bin\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\student-course-grade-form-project.csproj.AssemblyReference.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\student-course-grade-form-project.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.baml
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\MainWindow.g.cs
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\App.g.cs
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav_MarkupCompile.lref
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.g.resources
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\_11.Sınıf_1.Dönem_1.Sınav.Properties.Resources.resources
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\student-course-grade-form-project.csproj.GenerateResource.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\student-course-grade-form-project.csproj.CoreCompileInputs.cache
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.exe
+D:\enes\dersler\Lise\11.sınıf\1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\11.Sınıf 1.Dönem 1.Sınav\obj\Debug\11.Sınıf 1.Dönem 1.Sınav.pdb
